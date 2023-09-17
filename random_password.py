@@ -1,6 +1,6 @@
 import random
 upper="ABCDEFGHIJKLMNOQRSTUVWXYZ"
-lower='abcefghijklmnopqrstuvwxyz"
+lower="abcefghijklmnopqrstuvwxyz"
 numbers="0123456789"
 special="!@#$%^&*()-+{}?/"
 length=15
