@@ -6,4 +6,4 @@ special="!@#$%^&*()-+{}?/"
 length=15
 add=upper+lower+numbers+special
 password="".join(random.sample(add,length))
-print(password)
+print("password: " + password)
