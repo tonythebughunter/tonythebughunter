@@ -8,8 +8,10 @@ def portscan(ipaddress, port):
     print("port " + str(port) + " is open");
   except:
     print("port " + str(port) + " is closed");
-ipaddress=input("[+]Enter the target ipaddress: ")
-for port in range(70, 100):
+ipaddress=input("[+]Enter the target ipaddress or url: ")
+a=int(input("[+]Enter the first port to scan: "))
+b=int(input("[+]Enter the final port to scan: "))      
+for port in range(a, b):
   portscan(ipaddress, port);
     
      
