@@ -7,11 +7,12 @@ def portscan(ipaddress, port):
     sock.connect((ipaddress, port))
     print("port " + str(port) + " is open");
   except:
-    print("port " + str(port) + " is closed");
+    n=0;
 ipaddress=input("[+]Enter the target ipaddress or url: ")
 a=int(input("[+]Enter the first port to scan: "))
-b=int(input("[+]Enter the final port to scan: "))      
-for port in range(a, b):
+b=int(input("[+]Enter the final port to scan: "))
+print("Scanning " + ipaddress + " ...")
+for port in range(a, b+1):
   portscan(ipaddress, port);
     
      
