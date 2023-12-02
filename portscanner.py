@@ -1,5 +1,4 @@
 import socket
-from IPy import IP
 def portscan(ipaddress, port):
   try:
     sock=socket.socket()
