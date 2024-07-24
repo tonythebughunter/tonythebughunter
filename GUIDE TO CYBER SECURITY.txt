@@ -1,9 +1,0 @@
-Hello, so today i have decided to give you the step by step guide to be a cyber security researcher. Below are the steps:
-1. Learn computer basics e.g troubleshooting network.
-2. Learn networking e.g iso-osi model, ip-address, mac address, url etc.
-3. Learn any programming language and major in it, preferrably python.
-5. learn to use linux operating system.
-4. Learn web-development if you aim to be a bug bounty hunter.
-5. Practice using labs. e.g portswigger academy labs, hackthissite.org etc.
-
-Thank you for reading, for any feedback or question email me.
