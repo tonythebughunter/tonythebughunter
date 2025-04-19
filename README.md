@@ -1,2 +1,2 @@
-Hi, I’m @tonythebughunter, a cyber security researcher and programmer.
+Hi, I’m Tony, a cyber security researcher and a fullstack developer.
 
